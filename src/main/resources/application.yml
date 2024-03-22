@@ -1,6 +1,6 @@
 spring:
   application:
     name: springboot-starter
+  profiles:
+    active: dev
 
-server:
-  port: 8090
